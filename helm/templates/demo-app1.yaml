@@ -9,7 +9,7 @@ spec:
   project: production
   source:
     path: helm
-    repoURL: https://github.com/hrsikesa/demo-app1.git
+    repoURL: https://github.com/hrsikesa/sample-app1.git
     targetRevision: HEAD
     helm:
       values: |
