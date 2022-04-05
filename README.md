@@ -1,0 +1,2 @@
+# Argo CD Sample Repo
+
